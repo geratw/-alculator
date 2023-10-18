@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/imga"/>
+    <qresource prefix="/new">
+        <file>../img/kavai_1.jpeg</file>
+        <file>../img/kavai_2.jpeg</file>
+        <file>../img/kavai_3.png</file>
+        <file>../img/pika.jpeg</file>
+    </qresource>
+</RCC>
